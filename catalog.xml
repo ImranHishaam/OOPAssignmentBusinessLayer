@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/OOPAssignmentBusinessLayer/BusinessLayerAccess?wsdl" uri="src/conf/xml-resources/web-service-references/BusinessLayerAccess/wsdl/localhost_8080/OOPAssignmentBusinessLayer/BusinessLayerAccess.wsdl"/>
+    <system systemId="http://localhost:8080/OOPAssignmentBusinessLayer/BusinessLayerAccess?xsd=1" uri="src/conf/xml-resources/web-service-references/BusinessLayerAccess/wsdl/localhost_8080/OOPAssignmentBusinessLayer/BusinessLayerAccess.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/OOPAssignmentModelLayer/ModalLayerWebservices?wsdl" uri="src/conf/xml-resources/web-service-references/ModalLayerWebservices/wsdl/localhost_8080/OOPAssignmentModelLayer/ModalLayerWebservices.wsdl"/>
+    <system systemId="http://localhost:8080/OOPAssignmentModelLayer/ModalLayerWebservices?xsd=1" uri="src/conf/xml-resources/web-service-references/ModalLayerWebservices/wsdl/localhost_8080/OOPAssignmentModelLayer/ModalLayerWebservices.xsd_1.xsd"/>
+</catalog>
